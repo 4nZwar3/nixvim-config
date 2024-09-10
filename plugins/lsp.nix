@@ -96,7 +96,7 @@
       nginx-language-server.enable = true;
       nixd.enable = true;
       pyright.enable = true;
-      rust_analyzer.enable = true;
+      rust-analyzer.enable = true;
       sqls.enable = true;
       svelte.enable = true;
       tailwindcss.enable = true;
