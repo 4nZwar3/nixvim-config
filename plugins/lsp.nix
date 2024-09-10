@@ -117,6 +117,6 @@
 
   rootOpts = {
     colorschemes.catppuccin.settings.integrations.native_lsp.enabled = true;
-    extraPackages = [ pkgs.go ];
+    extraPackages = with pkgs; [ go, rustc, rust-analyzer, cargo ];
   };
 }
