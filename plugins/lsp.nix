@@ -99,7 +99,7 @@
       rust_analyzer.enable = true;
       sqls.enable = true;
       svelte.enable = true;
-      tailwindcss = true;
+      tailwindcss.enable = true;
       terraformls.enable = true;
       tsserver.enable = true;
       yamlls.enable = true;
