@@ -86,6 +86,7 @@
       docker-compose-language-service.enable = true;
       dockerls.enable = true;
       eslint.enable = true;
+      gleam.enable = true
       gopls.enable = true;
       helm-ls.enable = true;
       html.enable = true;
@@ -95,7 +96,10 @@
       nginx-language-server.enable = true;
       nixd.enable = true;
       pyright.enable = true;
+      rust_analyzer.enable = true;
       sqls.enable = true;
+      svelte.enable = true;
+      tailwindcss = true;
       terraformls.enable = true;
       tsserver.enable = true;
       yamlls.enable = true;
