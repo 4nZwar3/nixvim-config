@@ -86,7 +86,7 @@
       docker-compose-language-service.enable = true;
       dockerls.enable = true;
       eslint.enable = true;
-      gleam.enable = true
+      gleam.enable = true;
       gopls.enable = true;
       helm-ls.enable = true;
       html.enable = true;
