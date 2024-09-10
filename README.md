@@ -4,6 +4,7 @@
 
 > [!NOTE]
 > This project uses the [flake system](https://nixos.wiki/wiki/Flakes) and is not intended to be used without Flakes.
+> This is a fork of a different configuration.
 
 The [flake](./flake.nix) exports two packages:
 
