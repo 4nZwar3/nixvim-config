@@ -17,7 +17,7 @@ The [flake](./flake.nix) exports two packages:
 
 ```nix
 {
-  inputs.nixvim-config.url = "github:nicolas-goudry/nixvim-config";
+  inputs.nixvim-config.url = "github:4nZwar3/nixvim-config";
 
   outputs = { nixvim-config, ... }: {
     overlays.additions = final: _prev: {
