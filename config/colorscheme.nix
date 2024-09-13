@@ -1,15 +1,15 @@
 {
   colorschemes = {
-    catppuccin = {
-      enable = false;
+    # catppuccin = {
+      # enable = false;
 
-      settings = {
-        flavour = "mocha";
+      # settings = {
+        # flavour = "mocha";
 
         # Needed to keep terminal transparency, if any
-        transparent_background = false;
-      };
-    };
+        # transparent_background = false;
+      # };
+    # };
     vscode = {
       enable = true;
       settings = {
