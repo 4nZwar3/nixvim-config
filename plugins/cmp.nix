@@ -3,5 +3,5 @@
     enable = true;
     autoEnableSources = true;
     
-  }
+  };
 }
