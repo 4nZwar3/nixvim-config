@@ -1,0 +1,7 @@
+_:
+
+{
+  opts = {
+    enable = true;
+  };
+}
