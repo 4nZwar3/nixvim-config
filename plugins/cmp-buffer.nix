@@ -1,7 +1,0 @@
-_:
-
-{
-  opts = {
-    enable = true;
-  };
-}
