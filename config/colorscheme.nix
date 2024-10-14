@@ -11,11 +11,23 @@
       # };
     # };
     vscode = {
-      enable = true;
+      enable = false;
       settings = {
         transparent = true;
         italics_comments = true;
         disable_nvimtree_bg = true;
+      };
+    };
+    nightfox = {
+      enable = true;
+      flavor = "carbonfox";
+      settings = {
+        styles = {
+          comments = "italic";
+          functions = "italic,bold";
+        };
+        terminal_colors = true;
+        transparent = true;
       };
     };
   };
