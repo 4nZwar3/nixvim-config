@@ -3,10 +3,6 @@
 {
   opts = {
     enable = true;
-    formatting = {
-      format_on_save = true;
-    };
-
     # Set keymaps when LSP is attached
     keymaps = {
       extra = [
