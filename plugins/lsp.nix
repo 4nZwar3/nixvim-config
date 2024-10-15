@@ -26,7 +26,7 @@
         }
         {
           mode = "n";
-          key = "grn;
+          key = "grn";
           action.__raw = "function() vim.lsp.buf.rename() end";
           desc = "Rename variable";
         };
