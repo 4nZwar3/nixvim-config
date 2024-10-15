@@ -24,6 +24,7 @@
           action.__raw = "function() vim.lsp.codelens.run() end";
           options.desc = "LSP CodeLens run";
         }
+        
       ];
 
       lspBuf = {
@@ -50,6 +51,11 @@
         K = {
           action = "hover";
           desc = "LSP hover";
+        };
+
+        grn = {
+          action.__raw = "function() vim.lsp.codelens.refresh() end";
+          desc = "Rename variable";
         };
       };
     };
