@@ -28,8 +28,8 @@
           mode = "n";
           key = "grn";
           action.__raw = "function() vim.lsp.buf.rename() end";
-          desc = "Rename variable";
-        };
+          options.desc = "Rename variable";
+        }
       ];
 
       lspBuf = {
